@@ -1,5 +1,4 @@
 import os
-# type: ignore[reportMissingImports]
 import google.generativeai as genai
 
 
