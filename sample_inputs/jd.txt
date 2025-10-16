@@ -1,0 +1,8 @@
+Data Analyst (SQL + Python)
+
+Requirements:
+- 2+ years of experience in data analysis
+- Strong SQL (window functions, joins), Python (pandas)
+- Experience with BI tools (Tableau/Power BI), dashboards
+- A/B testing, statistics basics
+- English B2+
